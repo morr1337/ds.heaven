@@ -39,6 +39,7 @@
 	--white-500: var(--bright-text);
 	--white-400: var(--header-text);
 	--link-500: var(--link-color);
+	--home-image: url('https://i.imgur.com/233d55Y.gif');
 	--brand-260: var(--accent-color-2);
 	--brand-360: var(--accent-color-2);
 	--brand-500: var(--accent-color);
